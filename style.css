@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  background: gray;
+  background-image: url("images/balm-on.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
